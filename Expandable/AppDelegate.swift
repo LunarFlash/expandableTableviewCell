@@ -4,7 +4,7 @@
 //
 //  Created by Gabriel Theodoropoulos on 28/10/15.
 //  Copyright © 2015 Appcoda. All rights reserved.
-//
+//  http://www.appcoda.com/expandable-table-view/
 
 import UIKit
 
